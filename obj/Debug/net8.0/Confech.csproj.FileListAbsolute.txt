@@ -1,0 +1,14 @@
+C:\Users\user\Confech\bin\Debug\net8.0\Confech.exe
+C:\Users\user\Confech\bin\Debug\net8.0\Confech.deps.json
+C:\Users\user\Confech\bin\Debug\net8.0\Confech.runtimeconfig.json
+C:\Users\user\Confech\bin\Debug\net8.0\Confech.dll
+C:\Users\user\Confech\bin\Debug\net8.0\Confech.pdb
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.AssemblyInfoInputs.cache
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.AssemblyInfo.cs
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.csproj.CoreCompileInputs.cache
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.dll
+C:\Users\user\Confech\obj\Debug\net8.0\refint\Confech.dll
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.pdb
+C:\Users\user\Confech\obj\Debug\net8.0\Confech.genruntimeconfig.cache
+C:\Users\user\Confech\obj\Debug\net8.0\ref\Confech.dll
