@@ -4,13 +4,13 @@ Este programa, desarrollado en C#, ha sido creado para facilitar el proceso de r
 
 ## Instrucciones de Uso
 
-1. **Ingresar la Cantidad de Universidades:**El programa solicitará al usuario ingresar la cantidad de universidades que participan en el proceso de votación.
+1.**Ingresar la Cantidad de Universidades:** El programa solicitará al usuario ingresar la cantidad de universidades que participan en el proceso de votación.
 
-2. **Registro de Votos por Universidad:**Para cada universidad, el usuario debe ingresar el nombre de la universidad y los votos de sus alumnos.Los votos pueden ser: aceptar (A), rechazar (R), nulo (N) o blanco (B).Indique el término de la votación ingresando una X.
+2.**Registro de Votos por Universidad:** Para cada universidad, el usuario debe ingresar el nombre de la universidad y los votos de sus alumnos.Los votos pueden ser: aceptar (A), rechazar (R), nulo (N) o blanco (B).Indique el término de la votación ingresando una X.
 
-3. **Visualización de Totales por Universidad:**Al finalizar la votación, el programa mostrará los totales de votos de cada universidad con un formato claro y comprensible.
+3.**Visualización de Totales por Universidad:** Al finalizar la votación, el programa mostrará los totales de votos de cada universidad con un formato claro y comprensible.
 
-4. **Resultado de la Votación:**Finalmente, el programa mostrará el resultado global de la votación.Indicará la cantidad de universidades que aceptan, que rechazan y aquellas en las que hubo empate entre estas dos opciones.
+4.**Resultado de la Votación:** Finalmente, el programa mostrará el resultado global de la votación.Indicará la cantidad de universidades que aceptan, que rechazan y aquellas en las que hubo empate entre estas dos opciones.
 
 
 
